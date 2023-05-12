@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Hero Apps</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscription">Subscription</string>
+    <string name="library">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+
+    <string name="arsenal">Arsenal</string>
+    <string name="brighton">Brightona and Hove Albion F.C.</string>
+    <string name="brentford">Brentford F.C.</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="palace">Crystal Palace</string>
+    <string name="everton">Everton</string>
+    <string name="liverpool">Liverpool</string>
+    <string name="united">Machester United</string>
+    <string name="city">Manchester City</string>
+    <string name="newcastle">Newcastle United</string>
+    <string name="forest">Nottingham Forest FC</string>
+    <string name="stanley">Stanley </string>
+
+</resources>
