@@ -22,4 +22,14 @@
     <string name="forest">Nottingham Forest FC</string>
     <string name="stanley">Stanley </string>
 
+
+    <string name="antman">Antman</string>
+    <string name="aquaman">Aquaman</string>
+    <string name="avenger">Avenger</string>
+    <string name="captain">Captain America</string>
+    <string name="eternal">Eternal</string>
+    <string name="marvel">Marvel</string>
+    <string name="spiderman">Spyderman</string>
+    <string name="thor">Thor</string>
+
 </resources>
