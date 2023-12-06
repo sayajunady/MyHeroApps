@@ -18,4 +18,9 @@
         android:title="@string/library"
         android:icon="@drawable/ic_folder"/>
 
+    <item
+        android:id="@+id/menu_account"
+        android:title="@string/account"
+        android:icon="@drawable/baseline_account_circle_24"/>
+
 </menu>

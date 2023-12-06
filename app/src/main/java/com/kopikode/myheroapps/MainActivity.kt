@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.kopikode.myheroapps.fragment.AccountFragment
 import com.kopikode.myheroapps.fragment.ExploreFragment
 import com.kopikode.myheroapps.fragment.HomeFragment
 import com.kopikode.myheroapps.fragment.LibraryFragment
@@ -26,6 +27,7 @@ class MainActivity : AppCompatActivity() {
         val exploreFragment = ExploreFragment()
         val subscriptionFragment = SubscriptionFragment()
         val libraryFragment = LibraryFragment()
+        val accountFragment = AccountFragment()
 
         makeCurrentFragment (homeFragment)
 
@@ -36,6 +38,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.menu_explore -> makeCurrentFragment(exploreFragment)
                 R.id.menu_subscription -> makeCurrentFragment(subscriptionFragment)
                 R.id.menu_library-> makeCurrentFragment(libraryFragment)
+                R.id.menu_account-> makeCurrentFragment(accountFragment)
             }
 
             true

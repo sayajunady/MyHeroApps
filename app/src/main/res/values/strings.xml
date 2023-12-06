@@ -31,5 +31,6 @@
     <string name="marvel">Marvel</string>
     <string name="spiderman">Spyderman</string>
     <string name="thor">Thor</string>
+    <string name="account">Account</string>
 
 </resources>
